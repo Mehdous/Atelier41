@@ -1,0 +1,5 @@
+Exercice 4 :
+
+Écrivez un script affichant un formulaire demandant un nom et un mot de passe (qui n'apparaît pas à l'écran). À la soumission, il s'appelle lui-même et vérifie l'identité du visiteur par rapport à son identité "écrite en dur". La casse ne devra être prise en compte (le visiteur peut taper indifféremment en majuscules ou en minuscules). Les espaces tapés en début ou en fin de mot de passe ou de nom seront éliminés avec une fonction trim().
+
+- Si le visiteur n’est pas reconnu, seul le formulaire s’affiche. Si le visiteur est reconnu, seul un message d’accueil s’affiche.

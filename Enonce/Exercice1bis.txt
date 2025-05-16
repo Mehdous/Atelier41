@@ -1,0 +1,11 @@
+Exercice 1bis : récupération et affichage des données par liens
+La soumission du formulaire de I'écran C entraine l‘affichage du document de l'écran D.
+
+Ce fichier D comporte 2 liens. Un clic sur le premier lien affiche l'écran E. Un clic sur le second lien affiche
+l'écran F. (Vous passerez les informations dans l'URL en méthode GET)
+
+> Ecrivez les fichiers correspondant aux différents écrans.
+
+C) fichier formulaire2.php D) fichier liens.php
+
+E) fichier etat_civil.php F) fichier fichier_adresse.php

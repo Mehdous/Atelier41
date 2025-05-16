@@ -1,0 +1,12 @@
+Exercice 7 : Création de liste de cases à cocher.
+
+Complétez le fichier td3form.php en écrivant le script qui affiche la liste des loisirs pratiqués sous forme de cases à cocher. Pensez à réutiliser le tableau créé précédemment. Plusieurs réponses sont possibles. Chacune est transmise comme un élément de tableau. Complétez le fichier td3affiche.php en écrivant le script qui affiche le ou les loisirs pratiqués choisis (pensez que c’est un tableau qui est transmis), par exemple :
+
+- Vous pratiquez aussi comme loisirs : Jeux - Sports - Voyages.
+  La liste sera triée par ordre alphabétique.
+
+Remarques :
+- implode($car, $tableau) : renvoie une chaîne de caractères contenant les éléments du tableau séparés par $car.  
+  On l’utilise souvent avec " ", "," ou "-" ou "|" .
+
+- explode($car, $chaine) : fonction inverse de implode(), elle renvoie un tableau formé de sous-chaînes issues d’une chaîne tronçonnées en utilisant comme séparateur $car.

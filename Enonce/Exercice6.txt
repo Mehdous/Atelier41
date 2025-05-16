@@ -1,0 +1,9 @@
+Exercice 6 : Création de liste de boutons radio
+
+Complétez le fichier td3form.php en écrivant les scripts suivants.
+- Une liste de loisirs est enregistrée dans une variable de type tableau.
+- Écrire le script qui :
+  - génère la variable tableau.
+  - affiche la liste de boutons radio ci-joint, à partir du tableau.
+- Créez le fichier td3affiche.php en écrivant le script qui affiche le loisir favori choisi, par exemple :
+  - Votre loisir favori est : Musique.

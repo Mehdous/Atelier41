@@ -1,0 +1,3 @@
+Exercice 3 : générer un tableau en récupérant des données d’entrées par formulaire
+
+Écrivez un formulaire qui demande un nombre de lignes L et une taille de bordure B. À la soumission, il génère une page comportant un tableau vide de L lignes (une seule colonne) avec une bordure de B pixels. Modifiez le script pour demander le nombre de colonnes C et générer un tableau de L lignes et C colonnes.

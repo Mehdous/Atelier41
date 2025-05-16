@@ -1,0 +1,5 @@
+Exercice 2 : Mise en ceuvre d'un test sur des nombres
+> Ecrivez le fichier correspondant à l'écran G.
+
+> Ecrivez le fichier correspondant à l'écran H (quelle que soit la réponse OUI ou NON).
+G) fichier nombres.php H) fichier resultat.php

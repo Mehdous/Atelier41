@@ -1,0 +1,11 @@
+Exercice 5 : Création de liste d’options à partir d’un tableau.
+
+Créez une page td3form.php sur laquelle vous taperez les scripts suivants.
+- Tapez les balises html habituelles. La page comporte un formulaire de méthode GET, dont l’action est l’accès au fichier td3affiche.php.
+- En utilisant des boucles :
+  - Écrivez en une liste déroulante de formulaire qui permet de choisir un jour (de 1 à 31).
+  - Écrivez une liste déroulante de formulaire qui permet de choisir une année (de 1980 à 2005).
+  - Écrivez une liste déroulante de formulaire qui permet de choisir un mois. La valeur transmise correspond au mois, mais seul le nom est affiché dans la liste (exemple : Février).
+  - Modifiez le script pour que la valeur transmise soit le nombre du mois (exemple : 2).
+- Créez une page td3affiche.php qui affiche en s’adaptant au choix fait :
+  - la date choisie est le 3/5/1993.

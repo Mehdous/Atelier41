@@ -1,0 +1,5 @@
+Exercice 1: récupération et affichage des données issues d’un formulaire
+La Soumission du formulaire entraine l'affichage du document de I'écran B.
+> Ecrivez le fichier contenant le formulaire de lécran A (avant saisie des données),
+> Ecrivez le fichier correspondant a I'écran B (avec adaptation aux données saisies).
+A) fichier formulaire1.php B) fichier affiche.php
